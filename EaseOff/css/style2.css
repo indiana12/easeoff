@@ -1,0 +1,41 @@
+*,html,body{
+	background-color: whitesmoke;
+}
+#button1{
+	margin-top:20px;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right:auto;
+	border-style: solid;
+	border-color: red;
+}
+
+#button2{
+	margin-top:20px;
+	margin-bottom:auto;
+	margin-left: 20px;
+	margin-right: auto;
+	border-style:solid;
+	border-color:red;
+}
+
+#button3{
+	margin-top:20px;
+	margin-bottom:auto;
+	margin-left:auto;
+	margin-right:auto;
+	border-style:solid;
+	border-color:red;	
+}
+
+#first1{
+	margin-top:30px;
+	margin-bottom:auto;
+	margin-left:auto;
+	margin-right:auto;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: large;
+	font-style:italic;
+	font-weight:200;
+	align-items: center;
+}

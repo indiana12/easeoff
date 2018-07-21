@@ -1,0 +1,24 @@
+.carousel{
+margin-top:30px;
+margin-left:20px;
+margin-right:20px;
+margin-bottom:20px;
+border-style:solid;
+border-color:cyan;
+}
+#button2{
+margin-left:auto;
+	margin-top:auto;
+	margin-right:auto;
+	margin-bottom:30px;
+border-style:solid;
+border-color:red;
+}
+#button1{
+	margin-left: auto;
+	margin-bottom: 30px;
+	margin-right: auto;
+	margin-top: auto;
+	border-style: solid;
+	border-color:red
+}

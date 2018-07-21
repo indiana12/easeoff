@@ -1,0 +1,16 @@
+#forest{
+	margin-top:30px;
+	margin-left:20px;
+	margin-right:auto;
+	margin-bottom: auto;
+	border-style:solid;
+	border-color:red;
+}
+#jungle{
+	margin-top:30px;
+	margin-left:300px;
+	margin-right:auto;
+	margin-bottom:auto;
+	border-style:solid;
+	border-color:red;
+}

@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+#first-1{
+	margin-top:30px;
+	margin-left:20px;
+	margin-right:auto;
+	margin-bottom: 20px;
+	border-style:solid;
+	border-color:red;
+}
+#second-1{
+	margin-top:30px;
+	margin-left:1080px;
+	margin-right:auto;
+	margin-bottom:20px;
+	border-style:solid;
+	border-color:red;
+}
+.table1{
+	margin-top:20px;
+	margin-left:560px;
+	margin-right:auto;
+	margin-bottom:auto;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size:medium;
+}
+#first-11{
+	margin-top:30px;
+	margin-left:460px;
+	border-style:solid;
+	border-color:red;
+}
+#second-11{
+	margin-left:200px;
+	margin-right:auto;
+	margin-bottom:40px;
+	border-style:solid;
+	border-color:red;
+}
+#fourth{
+	margin-left:180px;
+	border-style:solid;
+	border-color:red;
+}
+#third{
+	margin-bottom:30px;
+	margin-left:250px;
+	border-style:solid;
+	border-color:red;
+}
+#second{
+	margin-bottom:30px;
+	margin-left:200px;
+	border-style:solid;
+	border-color:red;
+}
+#first{
+	margin-bottom:30px;
+	margin-left:150px;
+	border-style:solid;
+	border-color:red;
+}

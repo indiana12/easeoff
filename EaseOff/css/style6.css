@@ -1,0 +1,146 @@
+.first{
+	border-style:solid;
+	border-color:black;
+	margin-top:5px;
+	margin-right:auto;
+	margin-left:auto;
+	margin-bottom:auto;
+}
+.second{
+	border-style:solid;
+	border-color:black;
+	margin-top:5px;
+	margin-right:auto;
+	margin-left:auto;
+	margin-bottom:auto;
+}
+.third{
+	border-style:solid;
+	border-color:black;
+	margin-top:5px;
+	margin-right:auto;
+	margin-left:auto;
+	margin-bottom:auto;
+}
+.fourth{
+	border-style:solid;
+	border-color:black;
+	margin-top:5px;
+	margin-right:auto;
+	margin-left:auto;
+	margin-bottom:auto;
+}
+.fifth{
+	border-style:solid;
+	border-color:black;
+	margin-top:5px;
+	margin-right:auto;
+	margin-left:auto;
+	margin-bottom:auto;
+}
+#first-h3{
+	text-align-last: right;
+	margin-right:20px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+#second-h3{
+	text-align-last:right;
+	margin-right:20px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+#third-h3{
+	text-align-last:right;
+	margin-right:20px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+#fourth-h3{
+	text-align-last:right;
+	margin-right:20px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+#fifth-h3{
+	text-align-last:right;
+	margin-right:20px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+#first-p{
+	text-align:center;
+	margin-top:10px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+#second-p{
+	text-align:center;
+	margin-top:10px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+#third-p{
+	text-align:center;
+	margin-top:10px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+#fourth-p{
+	text-align:center;
+	margin-top:10px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+#fifth-p{
+	text-align:center;
+	margin-top:10px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+#first-1{
+	margin-top:5px;
+	margin-left:5px;
+	margin-right:auto;
+	margin-bottom:auto;
+}
+#second-1{
+	margin-top:5px;
+	margin-left:5px;
+	margin-right:auto;
+	margin-bottom:auto;
+}
+#third-1{
+	margin-top:5px;
+	margin-left:5px;
+	margin-right:auto;
+	margin-bottom:auto;
+}
+#fourth-1{
+	margin-top:5px;
+	margin-left:5px;
+	margin-right:auto;
+	margin-bottom:auto;
+}
+#fifth-1{
+	margin-top:5px;
+	margin-left:5px;
+	margin-right:auto;
+	margin-bottom:auto;
+}
+#four{
+	margin-left:180px;
+	border-style:solid;
+	border-color:red;
+}
+#three{
+	margin-top:5px;
+	margin-bottom:30px;
+	margin-left:250px;
+	border-style:solid;
+	border-color:red;
+}
+#two{
+	margin-top:5px;
+	margin-bottom:30px;
+	margin-left:200px;
+	border-style:solid;
+	border-color:red;
+}
+#one{
+	margin-top:5px;
+	margin-bottom:30px;
+	margin-left:150px;
+	border-style:solid;
+	border-color:red;
+}
